@@ -7,4 +7,10 @@ Resolvemos falar sobre a lógica de programação, pois, é por meia dela que se
 
 Até o final deste ano, o projeto será finalizado com êxito.
 
-[EN] 
+[EN]  Welcome to my repository of my school project about programming logic!
+
+This project was made in 2023, while I, along with my classmates, was in high school integrated with the technical course in computer science at Senac Sorocaba. This project was part of the subject project of the school year, an additional subject that we had at the time of high school. In every year of high school, we were encouraged to do a project that connected the generating theme and a subject of the students' preference. A generating theme is a topic that provides the generation of other related topics, and that interweaves the relationships between an individual or group of individuals with the world and the world with individuals. The school generating theme for the year 2023 was, "Autonomy and technology bring new opportunities for the future." To relate the generating theme to a topic that would be interesting for all the group members, we decided to talk about programming, because, through it, it is possible to solve several problems in our daily lives, including even getting jobs on our own by studying on our own.
+
+We decided to talk about programming logic, because it is through logic that we begin our studies about programming. It is essential that the student knows how programming logic and its subjects work. Because of this, we decided to create a site that would talk about this theme, programming logic. The site was made in HTML and CSS, markup and styling languages that are somewhat easy to use. I am one of the developers of the site, so far (05/27), I've almost finished the HTML part of the site.
+
+By the end of this year, the project will be successfully finished.
