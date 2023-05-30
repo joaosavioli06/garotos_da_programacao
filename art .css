@@ -94,6 +94,7 @@ button{
     border: 2px, solid, lightblue;
     border-color: rgb(32, 115, 223);
     margin-bottom: 10px;
+    width: 100%;
 }
 
 .botao:hover{
