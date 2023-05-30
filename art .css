@@ -1,0 +1,100 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(lightblue, rgb(32, 115, 223));
+
+}
+
+.intro{
+    font-size: 10px;
+    margin: 20px;
+}
+
+.logica{
+    font-size: 10px;
+    margin: 20px;
+}
+
+.variaveis{
+    font-size: 10px;
+    margin: 20px;
+}
+
+.aritmeticas{
+    font-size: 10px;
+    margin: 20px;
+}
+
+.condicional{
+    font-size: 10px;
+    margin: 20px;
+}
+
+.repeticao{
+    font-size: 10px;
+    margin: 20px;
+}
+
+
+ol {
+    display: flex;
+    padding: 10px;
+}
+.v {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+.o {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+.e {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+.r {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.final {
+    font-size: 15px;
+    margin: 20px;
+    color:white;
+    margin-top: 30px;
+}
+
+
+.lista-itens{
+    display: inline-block; /* Exibe as listas uma ao lado da outra */
+    margin-right: 10px; /* Espaçamento entre as listas */
+}
+
+footer{background-color: rgb(20, 102, 179); color: black; text-align: center; padding-bottom: 1%;  font-weight: bold; padding-top: 9px;
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+button{
+    border-radius: 4px;
+    background-color: rgb(17, 65, 167);
+    padding: 15px;
+    margin-left: 720px;
+    border: 2px, solid, lightblue;
+    border-color: rgb(32, 115, 223);
+    margin-bottom: 10px;
+}
+
+.botao:hover{
+    background-color: rgb(7, 88, 116);
+}
