@@ -89,10 +89,12 @@ button{
     border-radius: 4px;
     background-color: rgb(17, 65, 167);
     padding: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     border: 2px, solid, lightblue;
     border-color: rgb(32, 115, 223);
     margin-bottom: 10px;
-    width: 100%;
 }
 
 .botao:hover{
