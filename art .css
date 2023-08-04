@@ -1,36 +1,38 @@
 body{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: rgb(121, 222, 255);
+    background-color: rgb(130, 222, 253);
 
 }
 
 .intro{
-    font-size: 10px;
+    font-size: 18px;
     margin: 20px;
+    
+
 }
 
 .logica{
-    font-size: 10px;
+    font-size: 18px;
     margin: 20px;
 }
 
 .variaveis{
-    font-size: 10px;
+    font-size: 18px;
     margin: 20px;
 }
 
 .aritmeticas{
-    font-size: 10px;
+    font-size: 18px;
     margin: 20px;
 }
 
 .condicional{
-    font-size: 10px;
+    font-size: 18px;
     margin: 20px;
 }
 
 .repeticao{
-    font-size: 10px;
+    font-size: 18px;
     margin: 20px;
 }
 
@@ -63,8 +65,9 @@ ol {
 .final {
     font-size: 15px;
     margin: 20px;
-    color:white;
+    color: white;
     margin-top: 30px;
+    font-weight: bold;
 }
 
 
@@ -73,7 +76,7 @@ ol {
     margin-right: 10px; /* Espaçamento entre as listas */
 }
 
-footer{background-color: rgb(20, 102, 179); color: black; text-align: center; padding-bottom: 1%;  font-weight: bold; padding-top: 9px;
+footer{background-color: rgb(136, 194, 249); color: rgb(255, 255, 255); text-align: center; padding-bottom: 1%;  font-weight: bold; padding-top: 9px;
 
 }
 
@@ -87,13 +90,13 @@ a{
 
 button{
     border-radius: 4px;
-    background-color: rgb(17, 65, 167);
+    background-color: rgb(67, 126, 252);
     padding: 15px;
     display: block;
     margin-left: auto;
     margin-right: auto;
     border: 2px, solid, lightblue;
-    border-color: rgb(32, 115, 223);
+    border-color: rgb(71, 149, 251);
     margin-bottom: 10px;
 }
 
