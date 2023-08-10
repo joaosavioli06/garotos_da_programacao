@@ -1,0 +1,11 @@
+  .video-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .video-row {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
