@@ -39,6 +39,7 @@ ol {
     display: flex;
     padding: 10px;
 }
+
 .v {
     display: flex;
     justify-content: center;
@@ -109,11 +110,17 @@ button{
     p {
         font-size: 22px;
     }
-    h3 {
-        font-size: 22px;
+    .final {
+        font-size: 25px;
     }
     .lista {
         display: grid;
         grid-template-columns: 1fr;
+    }
+    .botao {
+        font-size: 22px;        
+    }
+    footer {
+        font-size: 22px;
     }
 }
