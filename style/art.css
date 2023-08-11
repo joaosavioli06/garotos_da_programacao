@@ -1,6 +1,6 @@
 body{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: rgb(130, 222, 253);
+    background: linear-gradient(to bottom, #cce7ff, #a4cbff); 
 
 }
 
@@ -74,7 +74,7 @@ ol {
     margin-right: 10px; /* Espaçamento entre as listas */
 }
 
-footer{background-color: rgb(150, 222, 253); color: rgb(255, 255, 255); text-align: center; padding-bottom: 1%;  font-weight: bold; padding-top: 9px;
+footer{background-color: #b6d6fe; color: rgb(255, 255, 255); text-align: center; padding-bottom: 1%;  font-weight: bold; padding-top: 9px;
 
 }
 
@@ -100,4 +100,10 @@ button{
 
 .botao:hover{
     background-color: rgb(7, 88, 116);
+}
+
+@media (max-width: 500px) {
+    .intro {
+        font-size: 30px;
+    }
 }
