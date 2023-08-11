@@ -30,11 +30,9 @@
     gap: 100px;
     justify-content: center;
     margin-top: 40px;
+    margin-bottom: 30px;
   }  
 
-  .ajuste {
-    margin-top: 50px;
-  }
 
   @media (max-width: 500px) {
     .video-container {
