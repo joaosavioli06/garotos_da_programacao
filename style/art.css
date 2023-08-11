@@ -103,7 +103,7 @@ button{
 }
 
 @media (max-width: 500px) {
-    .intro {
-        font-size: 30px;
+    div,p,h3 {
+        font-size: 22px;
     }
 }
