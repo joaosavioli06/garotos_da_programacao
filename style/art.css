@@ -112,7 +112,7 @@ button{
         font-size: 22px;
     }
     .final {
-        font-size: 10px;
+        font-size: 20px;
     }
     .lista {
         display: grid;
@@ -122,6 +122,6 @@ button{
         font-size: 22px;        
     }
     footer {
-        font-size: 22px;
+        font-size: 20px;
     }
 }
