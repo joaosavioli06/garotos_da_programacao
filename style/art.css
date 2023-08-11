@@ -103,7 +103,17 @@ button{
 }
 
 @media (max-width: 500px) {
-    div,p,h3 {
+    div {
         font-size: 22px;
+    }
+    p {
+        font-size: 22px;
+    }
+    h3 {
+        font-size: 22px;
+    }
+    .lista {
+        display: grid;
+        grid-template-columns: 1fr;
     }
 }
