@@ -1,6 +1,6 @@
 body{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: rgb(130, 222, 253);
+    background: linear-gradient(to bottom, #cce7ff, #a4cbff); 
 
 }
 
@@ -39,6 +39,7 @@ ol {
     display: flex;
     padding: 10px;
 }
+
 .v {
     display: flex;
     justify-content: center;
@@ -74,7 +75,7 @@ ol {
     margin-right: 10px; /* Espaçamento entre as listas */
 }
 
-footer{background-color: rgb(136, 194, 249); color: rgb(255, 255, 255); text-align: center; padding-bottom: 1%;  font-weight: bold; padding-top: 9px;
+footer{background-color: #b6d6fe; color: rgb(255, 255, 255); text-align: center; padding-bottom: 1%;  font-weight: bold; padding-top: 9px;
 
 }
 
@@ -96,8 +97,31 @@ button{
     border: 2px, solid, lightblue;
     border-color: rgb(71, 149, 251);
     margin-bottom: 10px;
+    color: rgb(0, 0, 0);
 }
 
 .botao:hover{
     background-color: rgb(7, 88, 116);
+}
+
+@media (max-width: 500px) {
+    div {
+        font-size: 22px;
+    }
+    p {
+        font-size: 22px;
+    }
+    .final {
+        font-size: 20px;
+    }
+    .lista {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    .botao {
+        font-size: 22px;        
+    }
+    footer {
+        font-size: 20px;
+    }
 }
