@@ -49,3 +49,28 @@
   .showMenu {
     transform: translateY(0);
   }
+
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(165, 234, 255);
+  }
+
+  p {
+    text-align: center;
+  }
+
+  a {
+    text-decoration: underline;
+    color: black;
+  }
+
+  h1 {
+    margin-top: 20px;
+    margin-bottom: 30px;
+  }
+
+  .link {
+    margin-top: 40px;
+    display: block;
+    text-align: center;
+  }

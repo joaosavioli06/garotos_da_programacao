@@ -112,8 +112,8 @@ ol {
 
 
 .lista-itens{
-    display: inline-block; /* Exibe as listas uma ao lado da outra */
-    margin-right: 10px; /* Espaçamento entre as listas */
+    display: inline-block; 
+    margin-right: 10px; 
 }
 
 h1 {
@@ -123,6 +123,16 @@ h1 {
 
 .espacamento {
   text-align: justify;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: rgb(165, 234, 255);
+}
+
+.lista {
+  padding-bottom: 15px;
+  padding-top: 15px;
 }
