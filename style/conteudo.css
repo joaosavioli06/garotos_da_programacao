@@ -132,6 +132,14 @@ body {
   background-color: rgb(165, 234, 255);
 }
 
+@media (max-width:500px) {
+  .lista {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+}
+
 .lista {
   padding-bottom: 15px;
   padding-top: 15px;
