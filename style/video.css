@@ -89,6 +89,9 @@
     margin-bottom: 30px;
   }  
 
+  a {
+    color: black;
+  }
 
   @media (max-width: 500px) {
     .video-container {
