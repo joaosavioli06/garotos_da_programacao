@@ -69,11 +69,6 @@
     margin-bottom: 30px;
   }
 
-  .link {
-    margin-top: 40px;
-    display: block;
-    text-align: center;
-  }
 
     @media (max-width:500px) {
     p{
